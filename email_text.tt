@@ -1,0 +1,23 @@
+Good morning [% agent.firstname %]
+
+I am available for contract work in about a week (26th November) and
+ideally I am looking for a role in the Thames Valley area or London.
+
+My skills include over 5 years experience in web applications in
+a LAMP environment (Linux, Apache, Mysql and Perl/PHP).
+
+I have attached my latest CV and I look forward to discussing any
+suitable contract roles you may have at the moment.
+
+Regards
+Ian Docherty
+tel: 07855 959883
+email [% agent.reply_email %]@iandocherty.com
+
+p.s.
+Please feel free to pass on my details to collegues who may be interested
+in my skills.
+
+p.p.s
+If you wish to stop receiving emails about my availability please
+reply to this email with the subject 'UNSUBSCRIBE'

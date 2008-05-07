@@ -13,7 +13,7 @@ use base qw(DBIx::Class);
 
 __PACKAGE__->load_components(qw(PK::Auto Core));
 __PACKAGE__->table('agent');
-__PACKAGE__->add_columns(qw(id firstname lastname company notes phone email));
+__PACKAGE__->add_columns(qw(id firstname lastname company email phone notes reply_email));
 __PACKAGE__->set_primary_key('id');
 
 1;
